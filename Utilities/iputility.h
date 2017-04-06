@@ -1,5 +1,5 @@
-#ifndef __IP_UTILITY
-#define __IP_UTILITY
+#ifndef __IP_UTILITY_H
+#define __IP_UTILITY_H
 
 #include <string>
 
